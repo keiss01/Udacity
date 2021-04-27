@@ -26,7 +26,7 @@ This file contains the respective question for each of the column in the survey 
 This notebook contain the analysis process leading to the answers for the questions above.
 
 ### Results
-The main findings can be found in this [Medium post](https://medium.com/@aviaksr/developers-gender-ratios-you-may-be-in-for-a-surprise-1fbec813944b).
+The main findings can be found in this [Medium post](https://aviak.medium.com/developers-gender-ratios-you-may-be-in-for-a-surprise-1fbec813944b).
 
 ### Licensing, Authors, Acknowledgements
 I would like to thank all the survey's respondents and StackOverflow for making this data available.<br>
