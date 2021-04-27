@@ -18,9 +18,9 @@ I was trying to answer the following 3 questions:<br>
 3. Can we observe differences in job satisfaction levels between the genders ?
 
 ### Files Description
-1. survey_results_public_2020.csv<br>
+1. survey_results_public_2020.csv in developer_survey_2020.zip<br>
 This file contains the data itself.<br><br>
-2. survey_results_schema_2020.csv<br>
+2. survey_results_schema_2020.csv in developer_survey_2020.zip<br>
 This file contains the respective question for each of the column in the survey results file.<br><br>
 3. StackOverflow_gender_analysis.ipynb<br>
 This notebook contain the analysis process leading to the answers for the questions above.
