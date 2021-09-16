@@ -27,7 +27,7 @@ Arvato Project Workbook.html<br>
 
 
 The data files are not included in this repository due to the terms & conditions of the company providing the data.
-A detailed description of these files appears in the post describing this project, which can be found here: [Medium](https://aviak.medium.com/2881590b84bb)
+A detailed description of these files appears in the post describing this project, which can be found in the [Medium Post](https://aviak.medium.com/2881590b84bb).
 
 #### Installation:
 Conda installation should be sufficient.</br>
