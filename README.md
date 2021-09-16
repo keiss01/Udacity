@@ -3,7 +3,7 @@
 #### motivation:
 
 This project is the final project in the Udacity Data Science Nanodegree program.
-A detailed description of the project can can be found in this post: [Medium Post](https://aviak.medium.com/2881590b84bb)
+A detailed description of the project can can be found in this [Medium Post](https://aviak.medium.com/2881590b84bb).
 
 #### Description:
 
