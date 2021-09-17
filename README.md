@@ -32,5 +32,11 @@ A detailed description of these files appears in the post describing this projec
 #### Installation:
 Conda installation should be sufficient.</br>
 
+#### Results
+
+The graph below shows the customers segmentation. An analysis of the characteristic of the clusters can be found in the [Medium Post](https://aviak.medium.com/2881590b84bb).<br>
+The model of prediction of responssiveness to campain reached a score of 0.75 in the Kaggle competition (while the current leading score is 0.884).
+![Clusters](clusters.png)
+
 #### acknowledgments
 This project is a part of Udacity Data Schientist Nanodegree in cooperation Arvato/Bertelsmann.
