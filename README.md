@@ -1,4 +1,4 @@
-### Customers Segmentation  and Responsiveness to Campaign Prediction for Arvato/Bertelsmann
+### Customers Segmentation and Prediction of Responsiveness to Campaign for Arvato/Bertelsmann
 
 #### motivation:
 
